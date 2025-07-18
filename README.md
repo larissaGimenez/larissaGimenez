@@ -1,34 +1,46 @@
-## Olá, meu nome é Larissa! 👋
-### 🎓 Sobre mim:
-💻 Desenvolvedora Full Stack.<br>
-👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistema.
-<br> <br>
-### 👩‍💻 O que aprendi com meus estudos:<br>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
-![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
-<br> <br>
-### 🔭 Atualmente trabalho com:<br>
-![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<br> <br>
-<div>
-<a href="https://github.com/larissaGimenez">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaGimenez&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaGimenez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img width="1000" height="301" alt="banner" src="https://github.com/user-attachments/assets/53a3f099-d965-49d1-a49e-4778197155c8" /><br>
+
+<p align="start">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+</p>
+<br>
+
+<img src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" width="348" align="left" alt="Hollow Knight GIF">
+
+**Olá, eu sou a Larissa! 👋**
+
+<p>Sou Desenvolvedora Júnior, no momento atuando como Full_Stack em projetos SaaS. Tenho experiência com PHP, Laravel, MySQL e Node.js, além de versionamento de código com Git. No front-end, tenho experiência com HTML, CSS, JavaScript, consumo de APIs REST e integração com gateways de pagamento (Asaas e Pagar.Me)</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/larissa-gimenez-706587149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:laris.gimenez13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+----
+
+<div align="start">
+  <a href="https://github.com/larissaGimenez">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=larissaGimenez&theme=dracula"/>
+  </a>
 </div>
 
-### 📫 Entre em contato:<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-gimenez-706587149/)<a href = "mailto:laris.gimenez13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br style="clear: both">
+
+
+
+
+
+
+
+
+
