@@ -1,7 +1,8 @@
+<img width="1000" height="301" alt="banner" src="https://github.com/user-attachments/assets/0d8eed01-1576-490a-bff2-6dcdde97cf74" /><br>
 
-<img width="1000" height="301" alt="banner" src="https://github.com/user-attachments/assets/53a3f099-d965-49d1-a49e-4778197155c8" /><br>
 
-<p align="start">
+
+<p align="center">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
@@ -10,12 +11,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 </p>
 <br>
 
-<img src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" width="348" align="left" alt="Hollow Knight GIF">
+<img alt="dino" src="https://github.com/user-attachments/assets/7fe899b0-9b1b-4ceb-9d3f-66e595e9a2b7" width="348" align="left" alt="Hollow Knight GIF" />
+
 
 **Olá, eu sou a Larissa! 👋**
 
